@@ -15,7 +15,7 @@ public class add {
 		c=a+b;
 		int sum=0;
 		sum=a+c;
-		System.out.println(c + sum);
+		System.out.println( "sum=" + c + sum);
 
 	}
 
