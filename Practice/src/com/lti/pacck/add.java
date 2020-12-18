@@ -16,6 +16,7 @@ public class add {
 		int sum=0;
 		sum=a+c;
 		System.out.println( "sum=" + c + sum);
+		System.out.println("hello welcome");
 
 	}
 
